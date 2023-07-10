@@ -7,6 +7,8 @@
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=compact)
+
 ### Minhas tecnologias:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
