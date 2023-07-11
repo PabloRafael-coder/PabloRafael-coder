@@ -7,7 +7,7 @@
 
 ![PabloRafael-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true&)
 
-![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=compact)
 
 ### Minhas tecnologias:
 <div style="display: inline_block"><br/>
