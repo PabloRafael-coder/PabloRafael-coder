@@ -1,5 +1,5 @@
 
-### Seja bem-vindo! Meu nome é Pablo Rafael, tenho 23 anos e estou em busca de novos horizontes na área de programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, sou um estudante entusiasmado de programação front-end, buscando aprimorar minhas habilidades técnicas e conhecimentos na área. Além disso, tenho uma paixão pelo aprendizado da língua inglesa, reconhecendo sua importância global e como um diferencial no campo da tecnologia. ✍️
+### Seja bem-vindo! Meu nome é Pablo Rafael, tenho 23 anos e estou em busca de novos horizontes na área de programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, sou um estudante entusiasmado de programação front-end, buscando aprimorar minhas habilidades técnicas e conhecimentos na área.  ✍️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rafael-1372a2279/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_rafaelk/)
