@@ -11,7 +11,7 @@
 
 ### Minhas tecnologias:
 <div style="display: inline_block"><br/>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,docker,postgres,mongodb" />
   </a>
