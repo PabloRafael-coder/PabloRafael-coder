@@ -6,7 +6,7 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oitavozero)
 <div style="display: inline_block"><br/>
 <p>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/pablo-rafael-1372a2279/)">
+  <a href="https://www.linkedin.com/in/pablo-rafael-1372a2279/">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
