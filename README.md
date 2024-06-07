@@ -16,10 +16,3 @@
 
 ![PabloRafael-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true&) <br>
 ![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=compact)
-
-
-
-
-
-
-Ao longo da minha trajetória profissional, tenho me dedicado incansavelmente a continuar estudando outras linguagens de programação, pois reconheço a importância de buscar crescimento e aprimoramento constante nesta área em constante evolução.
