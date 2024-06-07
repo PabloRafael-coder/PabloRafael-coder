@@ -21,4 +21,5 @@
 
 
 
+
 Ao longo da minha trajetória profissional, tenho me dedicado incansavelmente a continuar estudando outras linguagens de programação, pois reconheço a importância de buscar crescimento e aprimoramento constante nesta área em constante evolução.
