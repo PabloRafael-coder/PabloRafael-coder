@@ -14,7 +14,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_rafaelk/)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oitavozero)
 
-![PabloRafael-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true&) ![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=normal)
+![PabloRafael-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true&theme=transparent) ![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=normal)
 
 
 
