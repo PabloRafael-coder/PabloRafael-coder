@@ -16,8 +16,8 @@ Meu nome é Pablo Rafael, tenho 23 anos e estou em busca de novos horizontes na 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloRafael-coder" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloRafael-coder" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloRafael-coder&layout=compact&langs_count=8&card_width=320" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloRafael-coder&layout=compact&langs_count=8&card_width=320" />
 </a>
