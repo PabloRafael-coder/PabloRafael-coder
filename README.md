@@ -15,6 +15,8 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oitavozero)
 
 ![PabloRafael-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder&show_icons=true&theme=transparent) ![PabloRafael-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRafael-coder&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRafael-coder)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
