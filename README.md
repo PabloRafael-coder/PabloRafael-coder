@@ -5,7 +5,7 @@
 <p>
    <h3>Minhas tecnologias:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,docker,postgres,mongodb,git" />
   </a>
 </p>
 </div>
