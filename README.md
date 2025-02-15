@@ -1,6 +1,6 @@
 # Developer FullStack
 
-Meu nome é **Pablo Rafael**, tenho 24 anos e estou em busca de uma equipe de desenvolvimento. Sou formado em **Análise e Desenvolvimento de Sistemas**, sou um estudante esforçado, buscando aprimorar minhas habilidades, técnicas e conhecimentos na área. 
+#### Meu nome é Pablo Rafael, tenho 24 anos e estou em busca de uma equipe de desenvolvimento. Sou formado em Análise e Desenvolvimento de Sistemas, sou um estudante esforçado, buscando aprimorar minhas habilidades, técnicas e conhecimentos na área. 
 <div style="display: inline_block">
 <p>
    <h3>Minhas tecnologias:</h2>
