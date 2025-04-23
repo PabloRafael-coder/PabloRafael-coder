@@ -1,26 +1,28 @@
-# Developer FullStack
+# Olá, bem-vindo ao meu GitHub! 👨🏽‍💻
 
-<h3>Meu nome é Pablo Rafael, tenho 24 anos. Sou formado em Análise e Desenvolvimento de Sistemas, busco aprimorar minhas habilidades, técnicas e conhecimentos na área.</h3>
-<div style="display: inline_block">
-<p>
-   <h3>Minhas tecnologias:</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,docker,postgres,mongodb,git" />
-  </a>
-</p>
- <strong>Conhecimento: Engenharia de Software, Banco de dados, Estrutura de Dados, Lógica de Programação e Análise e projeto de sistemas.🚀 </strong>
-</div>
+Sou entusiasta de tecnologia e atualmente desenvolvo aplicações utilizando as principais stacks do mercado, como React e Next.js. Tenho como foco entregar projetos de alta performance e acessíveis para todos os usuários.
 
-<h3>Minhas redes sociais:</h2>
+## 📊 Linguagens de Programação
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rafael-1372a2279/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_rafaelk/)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oitavozero)
+- TypeScript / JavaScript  
+- SQL / NoSQL: PostgreSQL, MySQL, MongoDB
 
+## 🌐 Front-end
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloRafael-coder" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloRafael-coder&layout=compact&langs_count=10&card_width=320" />
-</a>
+- **React.js / Next.js**: SSR, SSG, SPA  
+- **Bibliotecas & Ferramentas**: React Query, Zod, Context API, Hooks, React Hook Form  
+- **Estilização**: TailwindCSS, Styled-components
+- **Design System**: Criação e manutenção de componentes reutilizáveis, tokens de design, documentação com Storybook
+
+## 🌐 Back-end
+
+- **Node.js**: APIs REST, Fastify, Express, autenticação com JWT  
+- **Databases**: PostgreSQL, MongoDB, MySQL
+
+## 🚀 Testes e Qualidade
+
+ - **Ferramentas**: Vitest, Playwright, Testing Library 
+
+ ## 👨🏽‍🎓 Educação
+ - **Análise e Desenvolvimento de Sistemas** – Claretiano julho, 2024
+ - **Inglês** 
