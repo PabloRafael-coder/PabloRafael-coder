@@ -4,8 +4,8 @@ Sou entusiasta de tecnologia e atualmente desenvolvo aplicações utilizando as 
 
 ## 📊 Linguagens de Programação
 
-- TypeScript / JavaScript  
-- SQL / NoSQL: PostgreSQL, MySQL, MongoDB
+- **TypeScript / JavaScript**  
+- **SQL / NoSQL**: PostgreSQL, MySQL, MongoDB
 
 ## 🌐 Front-end
 
@@ -25,4 +25,4 @@ Sou entusiasta de tecnologia e atualmente desenvolvo aplicações utilizando as 
 
  ## 👨🏽‍🎓 Educação
  - **Análise e Desenvolvimento de Sistemas** – Claretiano julho, 2024
- - **Inglês** 
+ - **Inglês: Técnico** 
