@@ -19,7 +19,7 @@ Sou entusiasta de tecnologia e atualmente desenvolvo aplicações utilizando as 
 - **Node.js**: APIs REST, Fastify, Express, autenticação com JWT  
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
-## 🚀 Testes e Qualidade
+## 🚀 Testes
 
  - **Ferramentas**: Vitest, Playwright, Testing Library 
 
