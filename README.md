@@ -1,4 +1,4 @@
-# Olá, bem-vindo ao meu GitHub! 👨🏽‍💻
+# STAY HARD! 👨🏽‍💻
 
 Sou entusiasta de tecnologia e atualmente desenvolvo aplicações utilizando as principais stacks do mercado, como React e Next.js. Tenho como foco entregar projetos de alta performance e acessíveis para todos os usuários.
 
